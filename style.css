@@ -1,0 +1,9 @@
+.carousel{
+    margin-top: 100px;
+}
+.panda-bg-color{
+    background-color: #fceae5;
+}
+.panda-btn-color{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
